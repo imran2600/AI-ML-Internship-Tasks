@@ -1,4 +1,5 @@
 # AI-ML-Internship-Tasks
+This project demonstrates basic data exploration and visualization using Python’s pandas, matplotlib, and seaborn libraries on the classic Iris dataset. The goal is to uncover trends, distributions, and outliers in the data through statistical summaries and plots.
 
 # Iris Dataset Exploration and Visualization  
 
